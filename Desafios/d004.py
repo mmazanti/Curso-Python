@@ -1,5 +1,6 @@
 print('Descubra qual o tipo primitivo')
 obj = input('Digite algo: ')
+print('O tipo primitivo desse valor é ', type(obj))
 print('É uma letra do alfabeto?', obj.isalpha())
 print('É um número?', obj.isnumeric())
 print('É um algarismo alphanumério?',obj.isalnum())
