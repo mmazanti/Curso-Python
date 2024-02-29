@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10dc93a0-30fb-44b2-9e22-5abac5bf3e7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafios/d005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/d006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/d007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/d008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/d009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/d010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/d011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/d012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/d013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testes/aula07a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/d003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/d003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/d004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/d004.py" afterDir="false" />
-    </list>
+    <list default="true" id="10dc93a0-30fb-44b2-9e22-5abac5bf3e7f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
