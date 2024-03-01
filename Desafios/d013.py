@@ -1,5 +1,4 @@
 print('Calcule seu aumento!')
 salario_atual = float(input('Qual o seu salário atual?: R$ '))
-aumento = salario_atual*0.15
-salario_novo = salario_atual+aumento
-print('Seu novo salário com 15% de aumento é de: R$', salario_novo)
+salario_novo = salario_atual + (salario_atual*15/100)
+print('Um funcionário que ganhava R$ {:.2f}, com 15% de aumento, passa a receber R$ {:.2f}'.format(salario_atual, salario_novo))
