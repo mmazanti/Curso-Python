@@ -1,7 +1,6 @@
 from math import radians, sin, cos, tan
-n = int(input('Digite um número '))
-a = radians(n)
-s = sin(a)
-c = cos(a)
-t = tan(a)
-print('A medida é: {}°. \nSeu seno é: {} \nSeu consseno é: {} \nSua tangente é: {}'.format(n, s, c, t))
+angulo = float(input('Digite um número '))
+seno = sin(radians(angulo))
+cosseno = cos(radians(angulo))
+tangente = tan(radians(angulo))
+print('A medida é: {}°. \nSeu seno é: {:.2f} \nSeu consseno é: {:.2f} \nSua tangente é: {:.2f}'.format(angulo, seno, cosseno, tangente))
