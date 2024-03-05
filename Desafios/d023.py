@@ -1,6 +1,6 @@
 numero = int(input('Digite um número de 0 a 9999: '))
-if  numero < 0 or numero > 9999:
-    print(('Número fora do intervalo válido.'))
+if numero < 0 or numero > 9999:
+    print('Número fora do intervalo válido.')
 else:
     unidade = (numero % 10)
     dezena = (numero // 10)%10
