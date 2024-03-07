@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10dc93a0-30fb-44b2-9e22-5abac5bf3e7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Testes/aula11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/d028.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/d028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/d029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/d029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/d032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/d032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/d033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/d033.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,61 +36,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.aula06a.executor": "Run",
-    "Python.aula06b.executor": "Run",
-    "Python.aula07a.executor": "Run",
-    "Python.aula08a.executor": "Run",
-    "Python.aula09.executor": "Run",
-    "Python.aula10.executor": "Run",
-    "Python.aula11.executor": "Run",
-    "Python.d003.executor": "Run",
-    "Python.d004.executor": "Run",
-    "Python.d005.executor": "Run",
-    "Python.d006.executor": "Run",
-    "Python.d007.executor": "Run",
-    "Python.d008.executor": "Run",
-    "Python.d009.executor": "Run",
-    "Python.d010.executor": "Run",
-    "Python.d011.executor": "Run",
-    "Python.d012.executor": "Run",
-    "Python.d013.executor": "Run",
-    "Python.d014.executor": "Run",
-    "Python.d015.executor": "Run",
-    "Python.d016.executor": "Run",
-    "Python.d017.executor": "Run",
-    "Python.d018.executor": "Run",
-    "Python.d019.executor": "Run",
-    "Python.d020.executor": "Run",
-    "Python.d021.executor": "Run",
-    "Python.d022.executor": "Run",
-    "Python.d023.executor": "Run",
-    "Python.d024.executor": "Run",
-    "Python.d025.executor": "Run",
-    "Python.d026.executor": "Run",
-    "Python.d027.executor": "Run",
-    "Python.d028.executor": "Run",
-    "Python.d029.executor": "Run",
-    "Python.d030.executor": "Run",
-    "Python.d031.executor": "Run",
-    "Python.d032.executor": "Run",
-    "Python.d033.executor": "Run",
-    "Python.d034.executor": "Run",
-    "Python.d035.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.repetição.executor": "Run",
-    "Python.teste.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/mat_m/Documents/Estudos/Curso-Python/Desafios",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.aula06a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula08a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repetição.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mat_m/Documents/Estudos/Curso-Python/Desafios&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mat_m\Documents\Estudos\Curso-Python\Desafios" />
